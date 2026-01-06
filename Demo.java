@@ -12,7 +12,7 @@ class Demo
 
 		System.out.print("Hello guys, welcome to java class");
 		System.out.print("Enter Number");
-		System.out.print(21);
+		System.out.print(22);
 
 
 
