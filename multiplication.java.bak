@@ -1,0 +1,50 @@
+class  multiplication
+{
+	public static void main(String[] args) 
+	{
+		//byte a = 5;
+		//byte b = 5;
+		
+		//int c = a*b;
+		
+		
+		//short a = 300;
+		//short b = 500;
+		
+		//int c = a*b;
+		
+		
+		//int a = 38;
+		//int b = 40;
+		
+		//int c = a*b;
+		
+		
+		//char a = 'A' ;
+		//char b = 'B' ; 
+		
+		//int c = a*b;	
+		
+		//long a = 2345l;
+		//long b = 344566l;
+		
+		//long c = a*b;
+		
+		
+		//float a = 1.1f;
+		//float b = 2.2f;
+		
+		//float c = a*b;
+		
+		
+		
+		String a = "Aditi" ;
+		String b = "Shinde" ;
+		
+		 c = a*b;
+		
+		
+		
+		System.out.println(c);
+	}
+}

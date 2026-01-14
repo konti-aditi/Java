@@ -1,0 +1,21 @@
+class wint 
+{
+	public static void main(String[] args) 
+	{
+		int a = 100;
+		System.out.println(a);
+		
+		long b = a;
+		System.out.println(b);
+		
+		float c = a;
+		System.out.println(c);
+		
+		double d = a;
+		System.out.println(d);
+		
+		char e = (char)a;
+		System.out.println(e);
+		
+	}
+}

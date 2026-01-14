@@ -1,0 +1,11 @@
+class wchar 
+{
+	public static void main(String[] args) 
+	{
+		char b = 'A';
+		System.out.println(b);
+		
+		long c = b;
+		System.out.println(c);
+	}
+}

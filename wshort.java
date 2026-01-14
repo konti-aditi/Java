@@ -1,0 +1,26 @@
+class wshort 
+{
+	public static void main(String[] args) 
+	{
+		short a =32767;
+		System.out.println(a);
+		
+		int b = a;
+		System.out.println(b);
+		
+		long c = a;
+		System.out.println(c);
+		
+		float d = a;
+		System.out.println(d);
+		
+		double e = a;
+		System.out.println(e);
+		
+		char f = (char)a;
+		System.out.println(f);
+		
+		char g = 97;
+		System.out.println(g);
+	}
+}
