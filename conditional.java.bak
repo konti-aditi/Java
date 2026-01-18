@@ -1,0 +1,11 @@
+class conditional 
+{
+	public static void main(String[] args) 
+	{
+		int num = 10;
+		
+		String ans = num >= 0 ? "it is positive" : "it is negative";
+		
+		System.out.println(ans);
+	}
+}

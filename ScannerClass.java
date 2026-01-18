@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+class ScannerClass {
+
+	public static void main (String []arg)
+		
+{
+	Scanner s1 = new Scanner(System.in);
+	
+	System.out.println("Enter First Number");
+	int n1 = s1.nextInt();
+	
+	System.out.println("Enter Second Number");
+	int n2 = s1.nextInt();
+	
+	int n3 = n1+n2;
+	System.out.println("Addition is: "+n3);
+		
+	}
+}
