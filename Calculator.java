@@ -33,14 +33,6 @@ class Calculator
 
 
 
-
-
-
-
-
-
-
-
 //higher order function
 //polyfill
 //loops
