@@ -1,19 +1,19 @@
 import java.util.Scanner;
 
-class ExtractDigits
+class CheckNum
 {
 	public static void main(String[] args) {
+
 		Scanner sc = new Scanner(System.in);
 
 		System.out.println("Enter a number: ");
 
 		int num = sc.nextInt();
 
-		int last = num%10;
+		String op = (num>0) ? ("is positive") : ("is negative");
 
-		System.out.println(last);
+		System.out.println(op);
 
-		num=num/10;
 
+		}		
 	}
-}
