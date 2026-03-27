@@ -8,13 +8,15 @@ class numIsZero
 		System.out.println("Enter a number: ");
 		int num = sc.nextInt();
 
-		if(num%10==0){
-			System.out.println("The number is having zero");
-			num = num/10;
+		while(num>0){
+			if(num%10 == 0){
+				System.out.println("The number is having zero");
+				return;
+			}
+			num/=10;
 		}
-		else{
-			System.out.println("the number is not having zero");
-		}
+
+		System.out.println("The number is not having zero");
 		
 	}
 }
