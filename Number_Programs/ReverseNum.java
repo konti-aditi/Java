@@ -12,7 +12,7 @@ class ReverseNum
 
 		int rev = 0;
 
-		while(num!=0)
+		while(num!=0)		
 		{
 			int last = num%10;
 
