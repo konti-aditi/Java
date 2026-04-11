@@ -9,7 +9,7 @@ class SumProd
 		System.out.println("Enter a number: ");
 		int num = sc.nextInt();
 
-		int sum = 0;
+		int sum = 0;tft677
 		int product = 1;
 
 
