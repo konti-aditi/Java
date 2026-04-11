@@ -1,7 +1,7 @@
 class Factors{
 	public static void main(String[] args) 
 	{
-	int num = 10;
+	float num = 13;
 
 	int den = 1;
 	int ct = 1;
